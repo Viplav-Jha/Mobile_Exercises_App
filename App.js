@@ -20,6 +20,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "gainsboro",
     justifyContent: "center",
-    padding: 10,
+    padding: 11,
   },
 });
